@@ -13,3 +13,7 @@ table{
 .right{
 	text-align:right;
 }
+#t-image{
+	display:block;
+	margin:0 auto;
+}
