@@ -10,8 +10,11 @@ table{
 .center{
 	text-align:center;
 }
-.right{
+.middle{
 	text-align:right;
+}
+#tablr-1{
+	
 }
 #t-image{
 	display:block;
